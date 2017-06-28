@@ -1,5 +1,5 @@
 var http = require('http');
-var port = 3006;
+var port = 3000;
 http.createServer(function (req, res) {
 
   //A parsed url to work  with in case there are parameters
@@ -21,7 +21,7 @@ http.createServer(function (req, res) {
     return res.end('employee list');
   } else if (req.url == '/employees/') {
     //find a single employee
-    url.id  = url.split('/')[2];
+    url.id = url.split('/')[2];
     res.writeHead(200);
     return res.end(' a single employee');
   } else {
