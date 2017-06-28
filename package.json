@@ -1,0 +1,24 @@
+{
+  "name": "FullStack-javascript-development-with-MEAN",
+  "version": "1.0.0",
+  "description": "Code i make while a read the book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasvelasco353/FullStack-javascript-development-with-MEAN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebasvelasco353/FullStack-javascript-development-with-MEAN/issues"
+  },
+  "homepage": "https://github.com/sebasvelasco353/FullStack-javascript-development-with-MEAN#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "nodemon": "^1.11.0"
+  }
+}
