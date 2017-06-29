@@ -19,6 +19,7 @@
   "homepage": "https://github.com/sebasvelasco353/FullStack-javascript-development-with-MEAN#readme",
   "dependencies": {
     "colors": "^1.1.2",
+    "mongoose": "^4.11.0",
     "nodemon": "^1.11.0"
   }
 }

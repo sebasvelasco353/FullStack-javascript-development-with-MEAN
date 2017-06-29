@@ -1,0 +1,28 @@
+[
+  {
+    "id": "100003",
+    "name": {
+      "first": "Colin",
+      "last": "Ihring"
+    },
+    "address": {
+      "lines": ["11 Wall Street"],
+      "city": "New York",
+      "state": "NYC",
+      "sip": 10118
+    }
+  },
+  {
+    "id": "100021",
+    "name": {
+      "first": "Adam",
+      "last": "Bretz"
+    },
+    "address": {
+      "lines": [" 2 Market Square", "Marquet Square"],
+      "city": "Pittsburgh",
+      "state": "PA",
+      "sip": 15222
+    }
+  }
+]
